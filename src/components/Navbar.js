@@ -19,7 +19,7 @@ const Navbar = () => {
               width={100}
               height={80}
             />
-            <div className="brand ">Branded_Mall</div>
+            <div className="brand ">Shopee</div>
           </div>
         </NavLink>
 
